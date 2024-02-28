@@ -20,15 +20,4 @@ In this challenge, we will use the following encryption keys:
 - "gato" => "gaitober"
 - "gaitober" => "gato"
 
-## Features
-The web page should include:
-- Fields for inserting the text to be encrypted or decrypted.
-- Options for the user to choose between encryption and decryption.
-- Display the result on the screen.
-
-### Extra Feature
-- Implement a button to copy the encrypted/decrypted text to the clipboard, similar to the functionality of ctrl+C or the "copy" option in application menus.
-
-Feel free to make it visually appealing and user-friendly!
-
 Happy coding! 🚀
